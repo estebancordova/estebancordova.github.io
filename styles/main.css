@@ -1,0 +1,29 @@
+/* styles/main.css */
+h1{
+	color: pink;
+}
+body{ background-color: red;
+	font-family: 'Asap', sans-serif;
+
+	text-align: center;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+ol{
+	font-weight: bold;
+	color: pink;
+}
+
+
+#border { border: 2px solid red;
+border-radius: 15px;
+}
+a{ text-decoration-line: none;
+color: blue; 
+}
+
+#margin_borders{
+	border-style: solid;
+	border-color: red;
+	margin: 40px 60px 80px;
+}
